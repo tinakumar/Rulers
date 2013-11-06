@@ -5,5 +5,5 @@ class QuotesController < Rulers::Controller
       "\n<pre>\n#{env}\n</pre>"
   end
 
-
+  puts "Hello there!"
 end
