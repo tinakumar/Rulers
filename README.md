@@ -1,6 +1,6 @@
 # Rulers
 
-TODO: Write a gem description
+Ruby Web Framework similar to the other R framework
 
 ## Installation
 
